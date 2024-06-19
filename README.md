@@ -15,3 +15,10 @@ pyenv global 3.12.3
 python3 -m venv .venv
 source .venv/bin/activate
 ```
+
+## Install packages
+
+```bash
+pip3 install -r requirements.txt
+```
+giot
