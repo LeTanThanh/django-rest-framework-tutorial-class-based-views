@@ -4,7 +4,7 @@
 
 ## Install python
 
-```
+```bash
 pyenv install 3.12.3
 pyenv global 3.12.3
 ```
@@ -31,7 +31,7 @@ python3 manage.py makemigrations
 ## Run migrations
 
 ```bash
-python3 manage.py makemigrations
+python3 manage.py migrate
 ```
 
 ## Run server
