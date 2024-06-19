@@ -21,4 +21,21 @@ source .venv/bin/activate
 ```bash
 pip3 install -r requirements.txt
 ```
-giot
+
+## Make migrations
+
+```bash
+python3 manage.py makemigrations
+```
+
+## Run migrations
+
+```bash
+python3 manage.py makemigrations
+```
+
+## Run server
+
+```bash
+python3 manage.py runserver
+```
